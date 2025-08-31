@@ -1,4 +1,4 @@
-I like to **design and build stuff**.
+I like to build stuff
 
 **Third-year Software Engineering student**
 
