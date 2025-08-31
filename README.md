@@ -1,16 +1,23 @@
-## Hi there 👋
+I like to **design and build stuff**.
 
-<!--
-**BasharSaadi/BasharSaadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Third-year Software Engineering student**
 
-Here are some ideas to get you started:
+### Fall 2025
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Code       | Course Name                     |
+|------------|---------------------------------|
+| SYSC 3110 | Software Development Project    |
+| SYSC 3310 | Introduction to Real-Time Systems |
+| SYSC 4001 | Operating Systems               |
+| SYSC 4101 | Software Validation             |
+| COMP 3005 | Database Management Systems     |
+
+### Winter 2025
+
+| Code       | Course Name                     |
+|------------|---------------------------------|
+| SYSC 3303 | Real-Time Concurrent Systems    |
+| SYSC 4130 | Human-Computer Interaction      |
+| SYSC 4416 | AI in Engineering               |
+| SYSC 4504 | Fundamentals of Web Development |
+| TBD       | (Looking for a 5th to enroll in)
