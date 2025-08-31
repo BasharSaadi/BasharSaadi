@@ -12,7 +12,7 @@ I like to **design and build stuff**.
 | SYSC 4101 | Software Validation             |
 | COMP 3005 | Database Management Systems     |
 
-### Winter 2025
+### Winter 2026
 
 | Code       | Course Name                     |
 |------------|---------------------------------|
